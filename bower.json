@@ -1,0 +1,28 @@
+{
+  "name": "angularapp",
+  "description": "Angular to do app",
+  "main": "index.js",
+  "authors": [
+    "CharlieJOD"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Angular",
+    "App",
+    "Code",
+    "Institute"
+  ],
+  "homepage": "https://github.com/CharlieJOD/angularapp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.4",
+    "angular-route": "^1.6.4"
+  }
+}
