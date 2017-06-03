@@ -1,0 +1,25 @@
+{
+  "name": "angularapp",
+  "version": "1.0.0",
+  "description": "Angular to do app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlieJOD/angularapp.git"
+  },
+  "keywords": [
+    "Angular",
+    "App",
+    "Code",
+    "Institute"
+  ],
+  "author": "CharlieJOD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlieJOD/angularapp/issues"
+  },
+  "homepage": "https://github.com/CharlieJOD/angularapp#readme"
+}
